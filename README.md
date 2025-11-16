@@ -53,7 +53,7 @@ The Common Sense License (CSL) is a **source-available, ethical, and commons-ori
 
 Explore how the Common Sense License (CSL) empowers engineers and ensures the software ecosystem prospers. These Colab-ready notebooks cover:
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eus9cgJq7NZsC5DQstwzBTynDyPj3C3O#scrollTo=5YmOigAF8HVX)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eus9cgJq7NZsC5DQstwzBTynDyPj3C3O?usp=sharing)
 
 1. Fetching real npm download data.
 2. Difference-in-differences (DID) regression analysis.
