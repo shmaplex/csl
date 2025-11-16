@@ -61,3 +61,10 @@ Explore how the Common Sense License (CSL) empowers engineers and ensures the so
 4. Parameter sweeps to explore policy impact.
 5. Corporate cash and labor contribution modeling.
 6. Storytelling visuals to communicate CSL impact.
+
+<p align="center">
+  <img src="notebooks/outputs/chart-2.png" alt="Chart" width="1280px">
+</p>
+<p align="center">
+  <img src="notebooks/outputs/chart-4.png" alt="Chart" width="1280px">
+</p>
