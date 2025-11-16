@@ -48,3 +48,16 @@ The Common Sense License (CSL) is a **source-available, ethical, and commons-ori
 
 - Submit issues or pull requests for improvements to the license or Community Use Agreement templates.
 - Join our community to help manage the Commons Fund.
+
+# CSL Progressive Commons Notebooks
+
+Explore how the Common Sense License (CSL) empowers engineers and ensures the software ecosystem prospers. These Colab-ready notebooks cover:
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eus9cgJq7NZsC5DQstwzBTynDyPj3C3O#scrollTo=5YmOigAF8HVX)
+
+1. Fetching real npm download data.
+2. Difference-in-differences (DID) regression analysis.
+3. Agent-based simulation of adoption, fund growth, and active developers.
+4. Parameter sweeps to explore policy impact.
+5. Corporate cash and labor contribution modeling.
+6. Storytelling visuals to communicate CSL impact.
