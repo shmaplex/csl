@@ -1,0 +1,304 @@
+                COMMON SENSE LICENSE (CSL) v1.1
+                      Copyright (C) 2025
+            The Common Sense License Working Group
+
+ Permission is granted to copy and distribute verbatim copies
+ of this license document, but changing it is not allowed.
+
+                          PREAMBLE
+
+The Common Sense License (CSL) is a pro-community, pro-worker
+license designed to prevent the extraction of free labor from
+open-source communities by large corporations, platform monopolies,
+and entities with disproportionate economic power.
+
+CSL protects:
+
+  * Free use for individuals, nonprofits, cooperatives, researchers,
+    academics, public-interest developers, and small businesses;
+  * Mandatory reciprocity for large-scale commercial users who derive
+    significant economic value from the Software;
+  * Community autonomy through transparent governance, enforceable
+    audit rights, and anti-evasion rules;
+  * Rights of workers, contributors, and maintainers through
+    ethical-use restrictions and labor-credit recognition.
+
+If you profit significantly from the commons, you must contribute
+proportionally back to the commons.
+
+The precise terms and conditions follow.
+
+                      TERMS AND CONDITIONS
+
+0.  DEFINITIONS
+
+"This License" refers to version 1.1 of the Common Sense License.
+
+"Software" or "Program" refers to any copyrightable work licensed under
+this License, including source code, binaries, models, APIs, datasets,
+documentation, and derivative works.
+
+"Use" includes running, deploying, hosting, modifying, distributing,
+embedding, integrating, or deriving economic or operational value
+from the Software.
+
+"Small-Scale User" means any individual, nonprofit organization,
+cooperative, public-interest institution, educational institution,
+researcher, or business with annual gross revenue under USD $10 million,
+including subsidiaries.
+
+"Large-Scale Commercial User" means any for-profit entity with annual
+gross revenue of USD $10 million or more, including any parent, subsidiary,
+affiliate, or entity under common ownership or control.
+
+"Attributable Revenue" means revenue directly or indirectly generated
+through the use of the Software, including but not limited to product
+sales, SaaS fees, subscriptions, licensing, consulting, advertising,
+automation value, or labor displacement.
+
+"Labor Contribution" means documented engineering, design, maintenance,
+security review, localization, community support, accessibility, or
+compliance work performed by paid employees and applied toward required
+contributions.
+
+"Commons Fund" means any fund, foundation, or cooperative pool
+designated to support maintainers, contributors, infrastructure, security,
+audits, hosting, research, or community-benefiting work.
+
+1.  BASIC PERMISSIONS
+
+You may use, study, modify, run, and distribute the Software for any
+lawful and ethical purpose, provided all conditions of this License are met.
+
+No permission beyond retaining this License is required for Small-Scale Users,
+except for compliance with Sections 3, 4, and 5.
+
+2.  WARRANTY DISCLAIMER AND LIMITATION OF LIABILITY
+
+  a) The Software is provided "as-is" and "as-available," without warranty
+    of any kind, express or implied, including but not limited to
+    warranties of title, merchantability, fitness for a particular purpose,
+    non-infringement, accuracy, absence of defects, or error-free operation.
+
+  b) To the extent permitted by law, in no event shall contributors,
+    copyright holders, or licensors be liable to you or any third party
+    for any direct, indirect, incidental, special, consequential, punitive,
+    exemplary, or other damages arising out of the use of or inability
+    to use the Software, even if advised of the possibility of such damages.
+
+  c) Where disclaimers or limitations of liability are restricted by law,
+    such restrictions shall not invalidate the remaining provisions.
+    This Section is intended to be interpreted to provide the maximum
+    enforceable disclaimer and limitation under applicable law.
+
+3.  CONVEYING VERBATIM COPIES
+
+You may convey verbatim copies of the Software as you receive it,
+provided you retain all copyright notices and include this License
+with every copy.
+
+4.	CONVEYING MODIFIED VERSIONS
+
+If you modify the Software in any way, you must comply with the following 
+obligations when conveying, deploying, or publicly using the modified version:
+
+  a) Disclosure of Modifications
+    •	Clearly state that you have modified the Software.
+    •	Include the date(s) of all modifications.
+    •	Provide a description of the modifications sufficient to identify 
+      functional changes from the original Software.
+
+  b) Source Code Availability
+    •	All modified source code must be made available under this same License to 
+      any recipient of the modified version.
+    •	For modifications deployed in production, hosted, or otherwise accessed by 
+      end users (directly or indirectly), the modified source must be accessible 
+      publicly or via an approved Commons Fund repository, unless a verified 
+      Community Contribution equivalent to 13.37% of attributable revenue has 
+      been made and documented.
+
+  c) Retention of Notices
+    •	Retain all original copyright, attribution, and license notices.
+    •	Add your own copyright/attribution notice for your contributions.
+
+  d) No Workarounds
+    •	You may not evade these obligations through license splitting, 
+      sublicensing, technical obfuscation, or deployment through intermediaries 
+      without compliance.
+
+5.	SOURCE CODE AVAILABILITY
+
+  a) Requirement to Provide Source
+    •	Any conveyed, publicly deployed, or commercially used version of the 
+      Software must be accompanied by the corresponding complete source code.
+
+  b) Method of Access
+    •	Source code must be provided via a public repository, approved Commons Fund 
+      repository, or other reasonable access method.
+    •	Large-Scale Commercial Users who wish to keep certain modifications private 
+      must provide documented Community Contributions equivalent to 13.37% of 
+      attributable revenue, approved by the maintainers or Commons Fund.
+
+  c) Compliance Enforcement
+    •	Failure to provide source code, or failure to make adequate contributions 
+      if keeping code private, constitutes a license violation and triggers 
+      Section 11 (Termination).
+
+6.  NO SUBLICENSING
+
+You may not sublicense the Software under different terms.
+All copies, modified or unmodified, must remain under this License.
+
+7.	OBLIGATIONS OF LARGE-SCALE COMMERCIAL USERS
+
+Large-Scale Commercial Users who convey, host, integrate, or derive commercial 
+value from the Software must make an annual Community Contribution, and comply 
+with source disclosure obligations, as follows:
+
+  a) Contribution Requirement
+    •	Minimum of 13.37% of Attributable Revenue generated through the Software; 
+    OR
+    •	Equivalent contribution in verified Labor Contribution, valued at fully 
+      loaded employee cost; OR
+    •	A hybrid combination of cash and Labor Contribution.
+
+  b) Destination of Contributions
+    •	Contributions must be directed to:
+      i. The maintainers of the Software; or
+      ii. A foundation designated by the maintainers; or
+      iii. A Commons Fund approved by contributors.
+
+  c) Mandatory Source Disclosure
+    •	All modifications affecting functionality or commercial deployment must be 
+      made publicly accessible under this License unless:
+      •	Verified Community Contributions equivalent to 13.37% of Attributable 
+        Revenue are made; AND
+      •	Contributions are documented and approved by maintainers or the Commons Fund.
+
+  d) Anti-Evasion Rules
+    •	Revenue shifting, shell restructuring, inter-affiliate transfers, 
+      subcontracting, or technical workarounds intended to avoid obligations are 
+      strictly prohibited.
+    •	Parent, subsidiary, affiliated, or commonly controlled entities are treated 
+      as a single entity when determining Large-Scale status or contribution 
+      obligations.
+
+  e) Audit Rights
+    •	Maintainers or the Commons Fund may request independent third-party audits to 
+      verify compliance with contributions, source disclosure, and obligations under 
+      this License.
+    •	Failure to comply with audit requests constitutes a license violation and 
+      triggers Section 11 (Termination).
+
+8.	REPORTING AND AUDIT REQUIREMENTS
+
+  a) Annual Reporting Obligation
+    •	Large-Scale Commercial Users must submit a written report each year detailing:
+        i. A comprehensive description of all commercial uses of the Software;
+       ii. A good-faith estimate of Attributable Revenue, including a breakdown by 
+           business unit, subsidiary, affiliate, or product line that uses the Software;
+      iii. Detailed documentation of Community Contributions, including cash payments, 
+           Labor Contributions, or hybrid contributions, with supporting receipts, 
+           payroll records, or other verifiable evidence.
+
+  b) Independent Audit Rights
+    •	Maintainers, contributors, or the Commons Fund may, at any time, request an 
+      independent third-party audit to verify accuracy of reports, revenue 
+      calculations, and compliance with contribution obligations.
+    •	Large-Scale Commercial Users must cooperate fully with auditors, provide 
+      access to relevant financial records, employee records, deployment logs, or 
+      any other information reasonably necessary for verification.
+    •	Audit costs will be borne by the audited party if discrepancies exceeding 5% of 
+      reported Attributable Revenue or Contributions are found; otherwise, costs may be 
+      borne by the requesting party.
+
+  c) Record Retention
+    •	Large-Scale Commercial Users must retain all records relevant to Software use, 
+      revenue attribution, and Community Contributions for a minimum of five (5) years.
+
+  d) Compliance Enforcement
+    •	Failure to submit reports, provide access for audits, or maintain sufficient 
+      documentation constitutes a violation of this License and triggers Section 11 
+      (Termination).
+
+  e) Small-Scale Users
+    •	Small-Scale Users, public-interest entities, researchers, and educational 
+      institutions remain fully exempt from these reporting and audit requirements.
+
+9.  EXEMPTIONS
+
+Small-Scale Users, public-interest entities, researchers, and educational
+institutions are exempt from Sections 7 and 8.
+
+10. ETHICAL USE RESTRICTIONS
+
+The Software may not be used to:
+
+  a) Conduct or support military, policing, intelligence, or surveillance operations;
+  b) Violate internationally recognized human, labor, or environmental rights;
+  c) Develop systems whose primary purpose is worker displacement,
+      rent extraction, or speculative exploitation.
+
+These restrictions apply to all Users, regardless of scale.
+
+11. TERMINATION
+
+Any violation of Sections 3, 4, 5, 7, 8, or 10 terminates your rights
+under this License automatically.
+
+Rights may be reinstated upon curing the violation within 30 days
+and receiving written confirmation from maintainers or governance representatives.
+
+12. PRESERVATION OF FREE USE
+
+Nothing in this License restricts non-commercial or small-scale use
+of the Software.
+
+13. FUTURE VERSIONS
+
+A future version of the CSL may be published to address changes
+in labor markets, platform governance, or software industry structure.
+Feedback from the community is encouraged.
+
+14.	INTERPRETATION AND SEVERABILITY
+
+  a) Preservation of Lawful Use
+    •	For the avoidance of doubt, this License does not, and shall not be interpreted 
+      to, reduce, limit, restrict, or impose conditions on any use of the Software 
+      that could lawfully be made without permission under this License.
+
+  b) Severability
+    •	If any provision of this License is deemed unenforceable or invalid by a court 
+      or competent authority, that provision shall be automatically reformed to the 
+      minimum extent necessary to make it enforceable.
+    •	If the provision cannot be reformed, it shall be severed from this License 
+      without affecting the enforceability or validity of the remaining terms and 
+      conditions.
+
+  c) No Waiver
+    •	No term or condition of this License will be waived, and no failure to comply 
+      will be deemed consented to, unless expressly agreed to in writing by the Licensor.
+
+  d) Licensor Privileges
+    •	Nothing in this License constitutes, nor may it be interpreted as, a limitation 
+      upon, or waiver of, any privileges, immunities, or legal protections that apply 
+      to the Licensor or You, including under the laws or legal processes of any 
+      jurisdiction or authority.
+
+
+                END OF TERMS AND CONDITIONS
+
+                 HOW TO APPLY THIS LICENSE
+
+To apply the Common Sense License to your program, attach the
+following notice to each source file:
+
+  Copyright (C) <year> <name>
+
+  This source code is licensed under the Common Sense License
+  (CSL) v1.1. You may obtain a copy of the license at:
+
+        https://github.com/shmaplex/csl
+
+  Large-Scale Commercial Users must comply with contribution
+  requirements described in Section 7 of the License.
